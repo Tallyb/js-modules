@@ -1,3 +1,9 @@
 {
-    "name": "bar"
+    "name": "bar",
+    "version": "0.0.1",
+    "scripts": {
+        "build": "tsc -p ."
+    },
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts"
 }
