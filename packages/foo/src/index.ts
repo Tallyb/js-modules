@@ -1,4 +1,4 @@
-import { isNumber } from 'lodash';
+import { isNumber } from 'lodash-es';
 import { add}  from 'bar';
 
 export function increment (x: number): number | string {
