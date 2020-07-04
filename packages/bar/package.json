@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "bar",
     "version": "0.0.1",
     "scripts": {
@@ -7,3 +8,16 @@
     "main": "dist/index.js",
     "types": "dist/index.d.ts"
 }
+||||||| parent of f20c3d8... Add outdir
+    "name": "bar"
+}
+=======
+    "name": "bar",
+    "version": "0.0.1",
+    "scripts": {
+        "build": "tsc -p ."
+    },
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts"
+}
+>>>>>>> f20c3d8... Add outdir
