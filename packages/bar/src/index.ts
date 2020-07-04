@@ -3,5 +3,6 @@ export function add (x: number, y: number): number {
 }
 
 export function subtract (x: number, y: number): number {
+    console.log('subtracting');
     return x - y;
 }
