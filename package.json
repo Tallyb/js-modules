@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bar": "file:packages/bar",
     "chalk": "^4.1.0",
+    "foo": "file:packages/foo",
     "lodash-es": "^4.17.15",
     "replace-json-property": "^1.4.3",
     "typescript": "^3.9.5"
