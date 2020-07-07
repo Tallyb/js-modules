@@ -1,6 +1,6 @@
 {
   "name": "js-modules",
-  "version": "1.0.0",
+  "version": "abcd",
   "description": "",
   "main": "dist/index.js",
   "type": "module",
@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.0",
     "lodash-es": "^4.17.15",
+    "replace-json-property": "^1.4.3",
     "typescript": "^3.9.5"
   },
   "devDependencies": {

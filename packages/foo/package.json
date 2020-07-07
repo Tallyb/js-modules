@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "name": "foo",
     "scripts": {
         "build": "../../node_modules/.bin/tsc -p ."
@@ -10,15 +9,3 @@
     "dependencies": {
     }
 }
-||||||| parent of f20c3d8... Add outdir
-    "name": "foo"
-}
-=======
-    "name": "foo",
-    "scripts": {
-        "build": "../../node_modules/.bin/tsc -p ."
-    },
-    "main": "dist/index.js",
-    "types": "dist/index.d.ts"
-}
->>>>>>> f20c3d8... Add outdir
